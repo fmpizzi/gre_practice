@@ -3,7 +3,7 @@ Python code for practising for a genereical math test.
 
 This code provides random exercises on: 
 
-*Multiplication Exercise:* Generates two random integers and asks the user to calculate their product.
+#Multiplication:# Generates two random integers and asks the user to calculate their product.
 
 Addition Exercise: Generates multiple random integers and asks the user to calculate their sum.
 
