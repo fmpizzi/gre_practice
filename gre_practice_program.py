@@ -14,7 +14,7 @@ import math
 import datetime
 import os
 #CHANGE DIRECTORY (use r in the begining of the path)
-os.chdir(r"C:\...)
+os.chdir(r"C:\...")
 
 
 #%%
