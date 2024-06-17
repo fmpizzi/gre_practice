@@ -1,7 +1,7 @@
 # gre_practice
 In an ideal world this program would be unneccesary 🙉
 
-Python code for practising for a generical math test. 
+Python code for practising for math test GRE (Generical Random Exercises) . 
 
 This code provides random exercises on: 
 
