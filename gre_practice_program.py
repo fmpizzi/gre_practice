@@ -13,7 +13,7 @@ import csv
 import math
 import datetime
 import os
-#CHANGE DIRECTORY (use r in the begining of the path)
+#CHANGE DIRECTORY (Check https://www.geeksforgeeks.org/python-os-chdir-method/) 
 os.chdir(r"C:\...")
 
 
